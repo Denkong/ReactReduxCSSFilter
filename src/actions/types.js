@@ -1,0 +1,3 @@
+export const SET_USER_PHOTO = 'SET_USER_PHOTO';
+export const DELETE_USER_PHOTO = 'DELETE_USER_PHOTO';
+export const SET_FILTER = 'SET_FILTER';
